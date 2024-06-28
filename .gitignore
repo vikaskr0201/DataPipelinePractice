@@ -1,0 +1,7 @@
+.DS_Store
+.git
+venv/
+.Python/
+env/
+.settings
+.vscode
