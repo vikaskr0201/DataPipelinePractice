@@ -6,6 +6,8 @@ Design and implement a sample data pipeline data engineering project using Spoti
 ## Project Objectives 
 This Data pipeline project performs the following task:
 
+![Alt text](images/ProjectDesc.png) <br/>
+
 Integrating with Spotify API and extracting Data<br/>
 Deploying code on AWS Lambda for Data Extraction<br/>
 Adding trigger to run the extraction automatically<br/>
